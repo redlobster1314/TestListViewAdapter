@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestListViewAdapter</string>
+    <string name="buttonName">Beschreibung</string>
 </resources>
